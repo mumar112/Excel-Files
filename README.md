@@ -18,7 +18,8 @@ Field Evaluation Chart
 A Field Valuation chart is frequently utilized to display a range of figures, particularly when the precise value cannot be ascertained. 
 The yellow line on our dashboard may represent the present stock price or the average of various valuation methods. This type of chart is
 commonly referred to as a "football field chart" in the domain of corporate finance and investment banking valuation.
-![excel 2](https://user-images.githubusercontent.com/90332434/226166032-a74fde01-dc4c-4254-9780-dd249612b7fc.PNG)
+![GGS](https://user-images.githubusercontent.com/90332434/226285642-83252037-2bbc-4261-be8b-b3d41e28178f.PNG)
+
 
 
 Area Chart
