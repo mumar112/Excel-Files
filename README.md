@@ -4,6 +4,7 @@ Personal finance dashboard
 - First, we input transactions either as an expense or income. Then, using pivot tables and conditional formatting, we create databars tracking your budget vs your actual expenses by categories such as transport, groceries, leisure etc.
 - Thirdly, we create dynamic charts with pivot tables such as a column chart and a bar chart.
 - Lastly, we insert slicers to make the dashboard interactive such that you we change the months you want to see.
+
 ![finance](https://user-images.githubusercontent.com/90332434/229711632-89bb3006-22a7-4f4c-b3a4-07235d43fc7c.PNG)
 Link:https://www.loom.com/share/474f5279c37046dc865b00d0e35c0a34
 
