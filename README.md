@@ -15,7 +15,7 @@ The cocacola sales dynamic excel dashboard .
 - The map highlights the states where the company has sold the most units, namely Texas, California, New York, and Florida.
 - Finally, the slicers assist in analyzing sales by category, such as beverage brand, region, and retailer.
 ![das](https://user-images.githubusercontent.com/90332434/226165907-7e389720-1d06-4af9-8492-5fb2b24246d8.PNG)
-
+https://user-images.githubusercontent.com/90332434/230016810-62f26a1c-7810-4bb0-919e-46c1d13b188f.mp4
 
 Speedometer Dashboard
 -Displayed below is an advanced Excel chart, specifically a gauge chart, commonly used to measure metrics such as
